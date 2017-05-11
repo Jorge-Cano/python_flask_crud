@@ -1,0 +1,13 @@
+html{
+  font-family: 'impact', serif;
+  text-align: left;
+  font-size: 24px;
+  background: rgba(3,4,5,.9);
+  margin-left: 200px;
+  color: rgba(100,100,100,.7)
+}
+
+li {
+  color: darkgray;
+  list-style: none;
+}
